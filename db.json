@@ -1,0 +1,126 @@
+{
+  "jobs": [
+    {
+      "position": "Product Manager",
+      "company": "Facebook",
+      "location": "Mountain View, CA",
+      "status": "Rejected",
+      "type": "Part-Time",
+      "id": "6b94a2d3-0571-412b-81e0-910d99a2f057",
+      "date": 1712607002328,
+      "rejection_date": "2024-04-08"
+    },
+    {
+      "position": "React Developer",
+      "company": "Facebook",
+      "location": "Menlo Park, CA",
+      "status": "Rejected",
+      "type": "Part-Time",
+      "id": "d7c4d757-4957-488d-a7f2-f8db05aa2c46",
+      "date": 1318607013502,
+      "rejection_date": "2011-10-14"
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Adobe",
+      "location": "San Jose, CA",
+      "status": "Interview",
+      "type": "Full-Time",
+      "id": "9ee5155f-0984-4c16-9f6a-90712facfb78",
+      "date": 1720550896851,
+      "interview_date": 1720550896851
+    },
+    {
+      "position": "Data Analyst",
+      "company": "Hulu",
+      "location": "Los Angeles, CA",
+      "status": "Rejected",
+      "type": "Part-Time",
+      "id": "3a48eef4-2850-4b8d-83a2-aed6b10b37f8",
+      "date": 1720552344626,
+      "rejection_date": 1720552344626
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Salesforce",
+      "location": "San Francisco, CA",
+      "status": "Interview",
+      "type": "Remote",
+      "id": "336e87e4-e8b0-4e29-87a5-2962f6249b32",
+      "date": 1720632154668,
+      "interview_date": 1720632154668
+    },
+    {
+      "position": "Network Manager",
+      "company": "Cisco",
+      "location": "San Jose, CA",
+      "status": "Interview",
+      "type": "Full-Time",
+      "interview_date": "2025-01-30T11:30",
+      "id": "PRiXyOa"
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "status": "Ongoing",
+      "type": "Remote",
+      "id": "8c1a91b2-5ad7-4ff6-98a7-dc0f12e8b9d9",
+      "date": 1722649828360
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "status": "Ongoing",
+      "type": "Full-Time",
+      "id": "a7fdbd44-7b99-4cf0-88d2-b2b0b678a387",
+      "date": 1718206014325
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Lyft",
+      "location": "San Francisco, CA",
+      "status": "Ongoing",
+      "type": "Full-time",
+      "id": "8b4db17c-7f9d-4b75-b50b-83d4596e8b9f",
+      "date": 1724558754675
+    },
+    {
+      "position": "Cloud Engineer",
+      "company": "IBM",
+      "location": "Armonk, NY",
+      "status": "Ongoing",
+      "type": "Full-Time",
+      "id": "b6e081b9-6b7d-43b4-a8d5-7b5f85ac1222",
+      "date": 1727226545625
+    },
+    {
+      "position": "Product Manager",
+      "company": "Cisco",
+      "location": "Cupertino, CA",
+      "status": "Ongoing",
+      "type": "Full-Time",
+      "date": "2025-01-29",
+      "id": "S2Cxm8J"
+    },
+    {
+      "position": "Product Manager",
+      "company": "Cisco",
+      "location": "New York",
+      "status": "Ongoing",
+      "type": "Remote",
+      "date": "2025-01-28",
+      "id": "cS8-OLp"
+    },
+    {
+      "position": "React Developer",
+      "company": "Facebook",
+      "location": "Palo Alto",
+      "status": "Ongoing",
+      "type": "Remote",
+      "date": "2025-01-29",
+      "id": "bNO5quX"
+    }
+  ]
+}
