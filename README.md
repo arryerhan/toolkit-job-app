@@ -1,4 +1,4 @@
-# Job Application Website
+# toolkit-job-app
 
 - This is a simple job application website built with React and various supporting libraries. It allows users to browse available job positions, submit applications, and track their submission status. The project is powered by Redux for state management, Axios for API calls, and other essential libraries for routing, notifications, and styling.
 
@@ -28,3 +28,14 @@
 - Responsive Design: Styled with Sass for a clean, responsive UI.
 
 ## Screenshots
+
+![screen01](https://github.com/user-attachments/assets/31acf31c-1ab5-4523-8d65-c3fd0e9af354)
+
+![screen02](https://github.com/user-attachments/assets/7b35f1dc-8ed6-41f8-ba7a-432a62496b48)
+
+
+
+
+
+
+
